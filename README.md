@@ -1,4 +1,3 @@
-# veresmall
 I am an analyst interested in educational economics, management of science, bibliometry and network analysis.
 
 Some of the recent projects are:

@@ -1,1 +1,7 @@
+title: "My Website"
+description: "A personal website for my research and academic journey."
 theme: jekyll-theme-minimal
+header_pages:
+  - index.md
+  - about.md
+  - research.md

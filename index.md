@@ -1,10 +1,11 @@
 
 <!-- Menu Ribbon -->
-<nav style="background-color: #333; padding: 15px; text-align: center; box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2); position: sticky; top: 0; z-index: 1000;">
-  <a href="index.md" style="color: white; text-decoration: none; margin: 0 20px; font-size: 18px; font-weight: bold;">Home</a>
-  <a href="cv" style="color: white; text-decoration: none; margin: 0 20px; font-size: 18px; font-weight: bold;">CV</a>
-  <a href="research.md" style="color: white; text-decoration: none; margin: 0 20px; font-size: 18px; font-weight: bold;">Research</a>
+<nav style="background-color: #333; box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2); padding: 15px 0; text-align: center;">
+  <a href="/" style="color: white; text-decoration: none; margin: 0 20px; font-size: 18px; font-family: Arial, sans-serif; font-weight: 600;">Home</a>
+  <a href="/cv" style="color: white; text-decoration: none; margin: 0 20px; font-size: 18px; font-family: Arial, sans-serif; font-weight: 600;">CV</a>
+  <a href="/research" style="color: white; text-decoration: none; margin: 0 20px; font-size: 18px; font-family: Arial, sans-serif; font-weight: 600;">Research</a>
 </nav>
+
 
 # Lena Veretennik
 

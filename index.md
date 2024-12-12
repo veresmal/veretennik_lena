@@ -20,24 +20,52 @@
 
 <div style="display: flex; flex-wrap: wrap; gap: 20px; margin-top: 1em;">
 
-  <div style="display: flex; align-items: center; background-color: #7FD6EA; padding: 10px; border-radius: 10px;">
-    <img src="https://golang.org/lib/godoc/images/go-logo-blue.svg" alt="Golang" style="width: 30px; height: 30px; margin-right: 10px;">
-    <a href="https://golang.org/" style="text-decoration: none; color: white; font-weight: bold;">Golang</a>
+  <div style="display: flex; align-items: center; background-color: #276DC3; padding: 10px; border-radius: 10px; color: white;">
+    <span>R</span>
   </div>
-
-  <div style="display: flex; align-items: center; background-color: #306998; padding: 10px; border-radius: 10px;">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python" style="width: 30px; height: 30px; margin-right: 10px;">
-    <a href="https://www.python.org/" style="text-decoration: none; color: white; font-weight: bold;">Python</a>
+  
+  <div style="display: flex; align-items: center; background-color: #306998; padding: 10px; border-radius: 10px; color: white;">
+    <span>Python</span>
   </div>
-
-  <div style="display: flex; align-items: center; background-color: #276DC3; padding: 10px; border-radius: 10px;">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Logo_RStudio.svg" alt="R" style="width: 30px; height: 30px; margin-right: 10px;">
-    <a href="https://www.r-project.org/" style="text-decoration: none; color: white; font-weight: bold;">R</a>
+  
+  <div style="display: flex; align-items: center; background-color: #F29111; padding: 10px; border-radius: 10px; color: white;">
+    <span>SQL</span>
   </div>
-
-  <div style="display: flex; align-items: center; background-color: #F29111; padding: 10px; border-radius: 10px;">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/1/1d/SQL.svg" alt="SQL" style="width: 30px; height: 30px; margin-right: 10px;">
-    <a href="https://en.wikipedia.org/wiki/SQL" style="text-decoration: none; color: white; font-weight: bold;">SQL</a>
+  
+  <div style="display: flex; align-items: center; background-color: #4E4E4E; padding: 10px; border-radius: 10px; color: white;">
+    <span>Shell/Bash</span>
+  </div>
+  
+  <div style="display: flex; align-items: center; background-color: #A0C4FF; padding: 10px; border-radius: 10px; color: white;">
+    <span>Stata</span>
+  </div>
+  
+  <div style="display: flex; align-items: center; background-color: #FF6F61; padding: 10px; border-radius: 10px; color: white;">
+    <span>SPSS</span>
+  </div>
+  
+  <div style="display: flex; align-items: center; background-color: #FFB703; padding: 10px; border-radius: 10px; color: white;">
+    <span>Tableau</span>
+  </div>
+  
+  <div style="display: flex; align-items: center; background-color: #DE4C36; padding: 10px; border-radius: 10px; color: white;">
+    <span>Git</span>
+  </div>
+  
+  <div style="display: flex; align-items: center; background-color: #4285F4; padding: 10px; border-radius: 10px; color: white;">
+    <span>Google Cloud Platform</span>
+  </div>
+  
+  <div style="display: flex; align-items: center; background-color: #9C27B0; padding: 10px; border-radius: 10px; color: white;">
+    <span>Flourish Studio</span>
+  </div>
+  
+  <div style="display: flex; align-items: center; background-color: #00C3FF; padding: 10px; border-radius: 10px; color: white;">
+    <span>Datawrapper</span>
+  </div>
+  
+  <div style="display: flex; align-items: center; background-color: #FFAB00; padding: 10px; border-radius: 10px; color: white;">
+    <span>Gephi</span>
   </div>
 
 </div>

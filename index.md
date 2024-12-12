@@ -3,6 +3,6 @@
 I am a PhD student researching [your topic]. Here are some highlights of my work:
 
 
-- [CV](./cv veretennik 2024.pdf)
+- [CV](./cv_veretennik_2024.pdf)
 - [Research](./research)
 

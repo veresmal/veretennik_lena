@@ -16,7 +16,7 @@
 
 
 
-## Other publications
+## Other publications in peer-reviewed journals
 
 *Veretennik, E. & Shakina, E. (2024)*  
 **Beyond borders: Achieving research performance breakthrough with academic collaborations**  

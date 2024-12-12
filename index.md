@@ -1,5 +1,47 @@
 # Lena Veretennik
 
+
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Index Page</title>
+  <style>
+    /* Style for the menu ribbon */
+    .menu {
+      display: flex;
+      justify-content: center;
+      background-color: #333;
+      padding: 10px 0;
+      position: sticky;
+      top: 0;
+      z-index: 1000;
+    }
+    .menu a {
+      color: white;
+      text-decoration: none;
+      margin: 0 15px;
+      font-weight: bold;
+      font-size: 18px;
+    }
+    .menu a:hover {
+      color: #FFD700;
+    }
+  </style>
+</head>
+<body>
+  <!-- Menu Ribbon -->
+  <div class="menu">
+    <a href="index.md">Home</a>
+    <a href="cv">CV</a>
+    <a href="research.md">Research</a>
+  </div>
+
+  <!-- Page Content -->
+  <div style="padding: 20px;">
 <div style="display: flex; align-items: flex-start;">
   <img src="./photo_cv.jpg" alt="Lena Veretennik" style="width: 150px; height: auto; margin-right: 20px;">
   <div>
@@ -82,4 +124,7 @@
     <span style="color: white;">Gephi</span>
   </div>
 
-</div>
+
+  </div>
+</body>
+</html>

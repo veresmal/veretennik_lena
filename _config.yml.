@@ -5,7 +5,3 @@ header_pages:
   - index.md
   - about.md
   - research.md
-
-              - name: profile_stack
-                uses: gleich/profile_stack@v2.1.0
-            

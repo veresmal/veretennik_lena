@@ -24,9 +24,7 @@
   <div style="display: flex; align-items: center; background-color: #276DC3; padding: 10px; border-radius: 10px;">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/R_logo.svg/1280px-R_logo.svg.png" alt="R" style="width: 30px; height: auto; margin-right: 10px;">
     <span style="color: white;">R</span>
-  </div>
 
-  <div style="display: flex; align-items: center; background-color: #306998; padding: 10px; border-radius: 10px;">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/121px-Python-logo-notext.svg.png" alt="Python" style="width: 30px; height: auto; margin-right: 10px;">
     <span style="color: white;">Python</span>
   </div>

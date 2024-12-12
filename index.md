@@ -1,9 +1,9 @@
 
 <!-- Menu Ribbon -->
 <nav style="background-color: #333; box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2); padding: 15px 0; text-align: center;">
-  <a href="/index.md" style="color: white; text-decoration: none; margin: 0 20px; font-size: 18px; font-family: Arial, sans-serif; font-weight: 600;">Home</a>
-  <a href="/cv_veretennik_2024.pdf" style="color: white; text-decoration: none; margin: 0 20px; font-size: 18px; font-family: Arial, sans-serif; font-weight: 600;">CV</a>
-  <a href="/research.html" style="color: white; text-decoration: none; margin: 0 20px; font-size: 18px; font-family: Arial, sans-serif; font-weight: 600;">Research</a>
+  <a href="/veretennik_lena/index.md" style="color: white; text-decoration: none; margin: 0 20px; font-size: 18px; font-family: Arial, sans-serif; font-weight: 600;">Home</a>
+  <a href="/veretennik_lena/cv_veretennik_2024.pdf" style="color: white; text-decoration: none; margin: 0 20px; font-size: 18px; font-family: Arial, sans-serif; font-weight: 600;">CV</a>
+  <a href="/veretennik_lena/research.html" style="color: white; text-decoration: none; margin: 0 20px; font-size: 18px; font-family: Arial, sans-serif; font-weight: 600;">Research</a>
 </nav>
 
 

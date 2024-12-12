@@ -15,3 +15,18 @@
     </ul>
   </div>
 </div>
+
+## Tech Stack
+
+<div style="display: flex; flex-wrap: wrap; gap: 15px; margin-top: 1em;">
+  <span style="padding: 5px 10px; border: 1px solid #ccc; border-radius: 5px;">Python</span>
+  <span style="padding: 5px 10px; border: 1px solid #ccc; border-radius: 5px;">R</span>
+  <span style="padding: 5px 10px; border: 1px solid #ccc; border-radius: 5px;">SQL</span>
+  <span style="padding: 5px 10px; border: 1px solid #ccc; border-radius: 5px;">Stata</span>
+  <span style="padding: 5px 10px; border: 1px solid #ccc; border-radius: 5px;">SPSS</span>
+  <span style="padding: 5px 10px; border: 1px solid #ccc; border-radius: 5px;">Git</span>
+  <span style="padding: 5px 10px; border: 1px solid #ccc; border-radius: 5px;">Google Cloud Platform</span>
+  <span style="padding: 5px 10px; border: 1px solid #ccc; border-radius: 5px;">Social Network Analysis (SNA)</span>
+  <span style="padding: 5px 10px; border: 1px solid #ccc; border-radius: 5px;">Organizational Network Analysis (ONA)</span>
+  <span style="padding: 5px 10px; border: 1px solid #ccc; border-radius: 5px;">Natural Language Processing (NLP)</span>
+</div>

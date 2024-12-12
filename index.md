@@ -1,7 +1,3 @@
----
-layout: default
-title: Home
----
 
 <!-- Menu Ribbon -->
 <nav style="background-color: #333; padding: 15px; text-align: center; box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2); position: sticky; top: 0; z-index: 1000;">

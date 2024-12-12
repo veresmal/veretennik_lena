@@ -1,7 +1,7 @@
 # Lena Veretennik
 
 <div style="display: flex; align-items: center;">
-  <img src="./cv_photo.jpg" alt="Lena Veretennik" style="width: 150px; margin-right: 20px;">
+  <img src="./photo_cv.jpg" alt="Lena Veretennik" style="width: 150px; margin-right: 20px;">
   <div>
     I am a Doctoral Student at KU Leuven’s Faculty of Economics and Business (the Department of Management, Strategy and Innovation), specializing in innovation networks, knowledge transfer, and the economics of science. 
 

@@ -1,5 +1,5 @@
 
-# Welcome to My Website
+# Lena Veretennik
 I am a PhD student researching [your topic]. Here are some highlights of my work:
 
 

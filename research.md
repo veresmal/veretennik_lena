@@ -14,9 +14,9 @@
 > This research leverages a comprehensive interpersonal collaboration graph encompassing all inventors from U.S. patents, all authors from PubMed, and author-inventors operating across both domains. Using an extensive dataset of patent citations to academic prior art (Reliance on Science), we measure the shortest paths between the authors of cited papers and the inventors listed on corresponding patents. By exploring how these paths vary with the novelty, complexity, value, and fields of invention, this research uncovers the critical role of social proximity in bridging academic knowledge and corporate technology.
 
 
-## Other publications
 
-## Publications
+
+## Other publications
 
 *Veretennik, E. & Shakina, E. (2024)*  
 **Beyond borders: Achieving research performance breakthrough with academic collaborations**  

@@ -6,7 +6,7 @@
   <a href="research.md" style="color: white; text-decoration: none; margin: 0 20px; font-size: 18px; font-weight: bold;">Research</a>
 </nav>
 
-# Welcome to My Homepage
+# Lena Veretennik
 
 <div style="display: flex; align-items: flex-start; margin-top: 20px;">
   <img src="./photo_cv.jpg" alt="Lena Veretennik" style="width: 150px; height: auto; margin-right: 20px;">

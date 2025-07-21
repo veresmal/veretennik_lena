@@ -4,6 +4,7 @@
   <a href="/veretennik_lena/" style="color: white; text-decoration: none; margin: 0 20px; font-size: 18px; font-family: Arial, sans-serif; font-weight: 600;">Home</a>
   <a href="/veretennik_lena/cv_veretennik_2024.pdf" style="color: white; text-decoration: none; margin: 0 20px; font-size: 18px; font-family: Arial, sans-serif; font-weight: 600;">CV</a>
   <a href="/veretennik_lena/research" style="color: white; text-decoration: none; margin: 0 20px; font-size: 18px; font-family: Arial, sans-serif; font-weight: 600;">Research</a>
+    <a href="/veretennik_lena/teaching" style="color: white; text-decoration: none; margin: 0 20px; font-size: 18px; font-family: Arial, sans-serif; font-weight: 600;">Teaching</a>
 </nav>
 
 

@@ -3,6 +3,7 @@ layout: default
 title: Teaching experience
 ---
 
+I enjoy creating and delivering practice-oriented, engaging, and creative study courses, which allow students to develop their hard and soft skills. I have broad expertise in creating educational content for BA, MA and MBA programs. My courses received multiple awards, including Teaching Excellence Awards like Best lecturer, Most useful Course, and Best Course Taught in English.
 
 ## Lecturer / Instructor 
 

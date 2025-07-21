@@ -19,9 +19,5 @@
     <p>
 With experience in organisational network consulting, data analytics, and university management, I create and utilise unique large-scale datasets alongside primary company data for my research. 
     </p>
-    <ul>
-      <li><a href="./cv_veretennik_2024.pdf">CV</a></li>
-      <li><a href="./research">Research</a></li>
-    </ul>
   </div>
 </div>

@@ -11,12 +11,12 @@ title: Research
 *Arts, S., Fleming, L. & Veretennik, L. (2025)*  
 **Harnessing Academic Science for Corporate Technology: The Role of Interpersonal Networks and Absorptive Capacity**
 
-<br> R&R in Organization Science </br>
+<br> R&R in Organization Science 
 
 > If firms conduct less scientific research internally and yet increasingly rely on science for innovation, how do they gain access to external scientific knowledge? To examine the role of interpersonal networks among corporate inventors and academic scientists in facilitating scientific knowledge transfer from academia to industry, we construct the social network encompassing nearly the entire population of life science academic scientists and all corporate inventors listed on U.S. patents. To isolate the influence of interpersonal connections from the inherent characteristics and commercial potential of scientific discoveries, we leverage paper twins-scientific papers with nearly identical findings published around the same time by independent academic teams-and analyze their citations in corporate patents. Although academic science is often viewed as a public good, our findings highlight the critical role of interpersonal connections-within two degrees of separation-in harnessing academic science for corporate innovation. Moreover, the ability of corporate inventors to leverage their connections to academic scientists is contingent on their own active engagement in scientific research as well as the alignment of their scientific expertise with the academic knowledge they seek to integrate.
 > https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5222566 
 
-<br> </br>
+<br> 
 
 *Veretennik, L. & Arts. S. (2025)* 
 **Proximity to Priority: Social Ties and Firms’ Early Use of External Science in Innovation**

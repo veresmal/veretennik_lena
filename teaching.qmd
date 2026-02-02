@@ -1,0 +1,49 @@
+---
+title: "Teaching"
+title-block-banner: "#dda15e"
+page-layout: full
+---
+
+Below is a selection of courses I have designed and taught.
+
+---
+
+## Strategic Management
+**Explore strategic management across organizational functions and learn how environmental factors shape business decisions in a global context**
+
+KU Leuven | Bachelor | 140 students | TA, grading exams | <span class="year-highlight">2025-2026</span>
+
+---
+
+## Social Network Analysis in Educational Research
+**Use R, Gephi, ORA, and the basics of social network analysis to tackle research questions and managerial challenges in educational institutions.**
+
+HSE University | Master | 20 students | Course curriculum designer and instructor | <span class="year-highlight">2021</span>
+
+---
+
+## Introductory Research Seminar
+**Develop essential managerial soft skills; showcase and explore career tracks for undergraduate students in international business and management via case championships (Unilever, Upteam, Arrival) and meetings with alumni**
+
+HSE University | Bachelor | 180-270 students | Course curriculum designer and instructor | <span class="year-highlight">2019-2022</span>
+
+---
+
+## Research Seminar "Quantitative and Qualitative methods"
+**Plan and execute rigorous quantitative and qualitative research in academic and industry domains.**
+
+HSE University | Bachelor/Master | 20-270 students | Course curriculum designer and instructor | <span class="year-highlight">2016-2021</span>
+
+---
+
+## Data Analysis for managers
+**Learn R, SPSS, Stata, Python, Tableau to execute statistical analysis and visualisations, and essentially make sense of various data types.**
+
+HSE University | Bachelor/Master | 20-130 students | Course curriculum designer and instructor | <span class="year-highlight">2016-2021</span>
+
+---
+
+## Organizational Theory and Behavior
+**Study the structure and dynamic nature of organisations and their impact on society and individuals**
+
+HSE University | Bachelor | 110-200 students | Course curriculum designer and instructor | <span class="year-highlight">2012-2017</span>

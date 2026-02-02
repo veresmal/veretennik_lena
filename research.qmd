@@ -1,0 +1,29 @@
+---
+title: "Research"
+title-block-banner: "#606c38"
+---
+
+My research explores science-technology links, external knowledge sourcing, and how individual connectivity enhances technological innovation. I study the mechanisms through which scientific knowledge translates into commercial applications and the role of social networks in facilitating innovation.
+
+## Working Papers
+
+[**Harnessing Academic Science for Corporate Technology: The Role of Interpersonal Networks and Absorptive Capacity**]{.paper-highlight}\
+with Sam Arts and Lee Fleming\
+*Revise and Resubmit at Organization Science*
+
+::: {.callout-tip collapse="true" icon="false" title="Abstract | [Full Text](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5222566)" appearance="simple"}
+If firms conduct less scientific research internally and yet increasingly rely on science for innovation, how do they gain access to external scientific knowledge? To examine the role of interpersonal networks among corporate inventors and academic scientists in facilitating scientific knowledge transfer from academia to industry, we construct the social network encompassing nearly the entire population of life science academic scientists and corporate inventors listed on U.S. patents. To isolate the influence of interpersonal connections from the inherent characteristics and commercial potential of scientific discoveries, we leverage paper twins—scientific papers with nearly identical findings published around the same time by independent academic teams—and analyze their citations in corporate patents. Although academic science is often viewed as a public good, our findings highlight the critical role of interpersonal connections—within two degrees of separation—in harnessing academic science for corporate innovation. Moreover, the ability of corporate inventors to leverage their connections to academic scientists depends upon their own active engagement in scientific research as well as the alignment of their scientific expertise with the academic knowledge they seek to integrate.
+:::
+
+------------------------------------------------------------------------
+
+[**Proximity to Priority: Social Ties and Firms’ Early Use of External Science in Innovation**]{.paper-highlight}\
+with Sam Arts
+
+::: {.callout-tip collapse="true" icon="false" title="Abstract" appearance="simple"}
+Integrating frontier science into corporate inventions unlocks greater technological value, yet most firms are slow to harness new external scientific discoveries. When firms are first to integrate science into their patents, they get the first citer advantage and extract higher private returns while temporarily excluding rivals. While prior research shows that social ties provide wider access to knowledge, whether these ties also determine the speed of knowledge integration remains unclear. We examine how social proximity between scientists and inventors shapes the timing of external science integration into patented corporate technologies. Using a novel large-scale collaboration network spanning US patent inventors and life science authors (1975-2009), we measure social distance between corporate inventors and scientific authors. Merging this network with all corporate patent citations to life science papers and employing paper fixed effects, we hold the scientific content constant and identify which firms cite each discovery first based on their social proximity to its authors. We find that: (1) social proximity strongly predicts early commercial uptake of external science with each additional degree of separation significantly delaying patent citation; (2) this proximity advantage is higher when paper is cited early after its publication; and (3) network depth matters - not only direct connections but all degrees of separation up to five hops independently predict citation timing. Network proximity seems to operate as a complement to geographic proximity, both effects being significant in predicting early use of external science. Social distance penalties are larger for technologically similar discoveries, revealing that networks provide strongest timing advantages precisely where competition for scientific inputs is most intense. These findings reveal interpersonal networks as a critical yet underappreciated source of competitive advantage in accessing and integrating external knowledge.
+:::
+
+------------------------------------------------------------------------
+
+Prior to my doctoral studies, my work in educational consulting and data science led to [several peer-reviewed publications](predoc_pubs.qmd).

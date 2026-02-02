@@ -1,0 +1,87 @@
+/*-- scss:defaults --*/
+
+$olive-leaf: #606c38;
+$black-forest: #283618;
+$cornsilk: #fefae0;
+$sunlit-clay: #dda15e;
+$copperwood: #bc6c25;
+
+$body-bg: #ffffff;
+$body-color: #212529;
+$primary: $olive-leaf;
+$link-color: $copperwood;
+$link-hover-color: $sunlit-clay;
+
+/*-- scss:rules --*/
+
+.navbar {
+  background-color: $black-forest !important;
+}
+
+.navbar .navbar-brand,
+.navbar .nav-link {
+  color: $cornsilk !important;
+}
+
+.navbar .nav-link:hover {
+  color: $sunlit-clay !important;
+}
+
+.paper-highlight {
+  background-color: #dda15e;  
+  padding: 0.2rem 0.4rem;
+  display: inline;
+}
+
+
+/* Teaching page styling */
+.year-highlight {
+  color: $copperwood;
+  font-weight: 600;
+  font-size: 1.05rem;
+}
+
+/* Course sections */
+h2 {
+  color: $black-forest;
+  font-size: 1.6rem;
+  margin-top: 2.5rem;
+  margin-bottom: 0.5rem;
+  border-left: 4px solid $olive-leaf;
+  padding-left: 1rem;
+}
+
+/* Course description */
+h2 + p {
+  color: #333;
+  font-size: 1.05rem;
+  line-height: 1.6;
+  margin-bottom: 0.75rem;
+  padding-left: 1.25rem;
+}
+
+/* Course metadata line */
+h2 + p + p {
+  color: #666;
+  font-size: 0.95rem;
+  margin-top: 0.75rem;
+  padding-left: 1.25rem;
+  padding-bottom: 1.5rem;
+  border-bottom: 1px solid #e0e0e0;
+}
+
+/* Intro text */
+.quarto-title-block + p {
+  color: $olive-leaf;
+  font-size: 1.1rem;
+  margin-bottom: 2rem;
+}
+
+/* Table of contents on the right */
+.toc-actions a {
+  color: $copperwood !important;
+}
+
+.toc-actions a:hover {
+  color: $sunlit-clay !important;
+}

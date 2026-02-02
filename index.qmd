@@ -1,0 +1,26 @@
+---
+title: "Hello there!"
+pagetitle: "Lena Veretennik"
+description-meta: "Lena Veretennik is a PhD candidate at KU Leuven, researching science-technology links and network in innovation and economics of science."
+title-block-banner: "#606c38"
+---
+
+::: {.grid}
+
+::: {.g-col-12 .g-col-md-3}
+![](files/photo.png){.rounded-circle fig-align="center" width=200px}
+:::
+
+::: {.g-col-12 .g-col-md-9}
+I'm a PhD candidate in the [Department of Management, Strategy and Innovation](https://feb.kuleuven.be/research/MSI/home) at the Faculty of Economics and Business [KU Leuven](https://www.kuleuven.be). 
+
+My research explores science-technology links, external knowledge sourcing, and the role of individual connectivity in innovation.
+
+I am broadly interested in how various social networks, from informal ties to strategic partnerships, influence innovation and performance. I examine topics at the intersection of strategic management, innovation, and the economics of science and technology.
+
+Before my PhD, I worked on organizational and social network consulting, led data science projects, and taught data-oriented courses in economics and business.
+
+**I am on the 2026-2027 academic job market.**
+:::
+
+:::

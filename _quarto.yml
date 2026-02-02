@@ -1,0 +1,44 @@
+project:
+  type: website
+
+website:
+  title: "Lena Veretennik"
+  description: "PhD Researcher, Science-Technology Links and Networks, KU Leuven"
+  favicon: "/files/favicon.png"
+  
+  navbar:
+    left:
+      - text: "About"
+        href: index.qmd
+      - text: "CV"
+        href: cv.qmd
+      - text: "Research"
+        href: research.qmd
+      - text: "Teaching"
+        href: teaching.qmd
+    
+    right:
+      - icon: envelope
+        href: "mailto:elena.veretennik@kuleuven.be"
+        aria-label: Email
+      - icon: github
+        href: "https://github.com/veresmal"
+        aria-label: GitHub
+      - icon: linkedin
+        href: "https://www.linkedin.com/in/veretennikev"
+        aria-label: LinkedIn
+  
+  page-footer:
+    left: |
+      © 2026 Lena Veretennik
+    right: |
+      Made with {{< fa brands r-project >}} and [Quarto](https://quarto.org/)
+
+format:
+  html:
+    theme: 
+      - flatly
+      - custom.scss
+    toc: true
+    code-link: true
+    anchor-sections: true
